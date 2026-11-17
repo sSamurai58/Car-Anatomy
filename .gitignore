@@ -1,0 +1,29 @@
+# Secrets
+.env
+*.env.local
+secrets.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Episode media (keep text artifacts; ignore heavy binaries by default)
+episodes/**/voice.mp3
+episodes/**/clips/
+episodes/**/short.mp4
+episodes/**/thumbnail.png
+episodes/**/*.mp4
+episodes/**/*.wav
+
+# OAuth / Google tokens
+token.json
+credentials.json
+client_secret*.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
