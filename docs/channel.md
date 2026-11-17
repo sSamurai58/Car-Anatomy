@@ -11,7 +11,7 @@
 | Language | English (US) |
 | Format | YouTube Shorts ~45–60s, 9:16 |
 | Tone | Clear, punchy, factual; hook in first 1–2s; no empty clickbait |
-| Visuals | Full AI video (script → narration → shot list → generation) |
+| Visuals | Full AI video via **Kling** (script → narration → shot list → generation) |
 | Voice | ElevenLabs `voice_id` `TX3LPaxmHKxFdv7VOQHJ` |
 | Publish | Trial: private/unlisted → review → public; then auto |
 

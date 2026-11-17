@@ -33,7 +33,7 @@
 - Vertical **9:16** only
 - One shot = one visual idea from the shot list
 - Prefer cutaway / diagram / motion that shows the mechanism over beauty B-roll alone
-- Provider TBD — keep prompts provider-agnostic in episode folders
+- Provider: **Kling** (`pipeline/ai_video.py`) — keep prompts mechanism-first; 9:16
 
 ## Audio
 

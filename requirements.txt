@@ -1,0 +1,6 @@
+# Runtime deps for pipeline stages (stdlib urllib used where possible).
+# PyJWT is required only when using KLING_ACCESS_KEY + KLING_SECRET_KEY (JWT).
+PyJWT>=2.8.0
+
+# Dev / unit tests
+pytest>=8.0.0
