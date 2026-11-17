@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "description": "",
+  "tags": [
+    "car anatomy",
+    "how cars work",
+    "shorts",
+    "automotive",
+    "engineering"
+  ],
+  "categoryId": "2",
+  "privacyStatus": "private",
+  "madeForKids": false,
+  "shorts": true,
+  "language": "en-US",
+  "episodeSlug": "",
+  "thumbnailPath": "thumbnail.png",
+  "videoPath": "short.mp4",
+  "notes": "Trial uploads: keep privacyStatus private or unlisted until reviewed."
+}
