@@ -1,0 +1,16 @@
+[project]
+name = "car-anatomy"
+version = "0.1.0"
+description = "Car Anatomy YouTube Shorts pipeline (ElevenLabs + Kling + ffmpeg)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "PyJWT>=2.8.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
